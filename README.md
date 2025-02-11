@@ -8,7 +8,7 @@ You will need Ollama and at least two of their models installed. The LLMs will t
 
 2. Download and install Python.
 
-3. Copy the project over to C:\LLMatchup
+3. Install the project in C:\LLMatchup
 
 4. Open a Command Prompt as Administrator.
 
