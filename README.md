@@ -19,6 +19,6 @@ You will need Ollama and at least two of their models installed. The LLMs will t
    ollama pull <LLM_2>
    I had better results with the larger (8b+) models. The 1.x models were very spotty.
 
-7. pip install ollama langchain langchain_community langchain_huggingface langchain_ollama pdfplumber faiss-cpu matplotlib
+8. pip install ollama langchain langchain_community langchain_huggingface langchain_ollama pdfplumber faiss-cpu matplotlib
 
-8. python app.py
+9. python app.py
