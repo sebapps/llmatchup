@@ -14,9 +14,9 @@ You will need Ollama and at least two of their models installed. The LLMs will t
 
 5. cd \LLMatchup
 
-6. In the Ollama website, find two or more models and pull them into ollama:
-   ollama pull <LLM_1>
-   ollama pull <LLM_2>
+6. In the Ollama website, find two or more models and pull them into ollama:<br>
+   ollama pull <LLM_1><br>
+   ollama pull <LLM_2><br>
    I had better results with the larger (8b+) models. The 1.x models were very spotty.
 
 8. pip install ollama langchain langchain_community langchain_huggingface langchain_ollama pdfplumber faiss-cpu matplotlib
